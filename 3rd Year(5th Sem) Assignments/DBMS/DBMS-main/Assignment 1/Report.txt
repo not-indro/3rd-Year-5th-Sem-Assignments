@@ -1,0 +1,43 @@
+			 Astik Gorai		
+			2020CSB038
+		Report for Salesman for Each Region
+
+			Region : 1
+
+Sales Man 1 : 0
+Sales Man 2 : 30
+Sales Man 3 : 50
+Sales Man 4 : 0
+Sales Man 5 : 0
+Sales Man 6 : 30
+Total Sale in Region 1 is: 110
+
+			Region : 2
+
+Sales Man 1 : 0
+Sales Man 2 : 0
+Sales Man 3 : 1350
+Sales Man 4 : 2000
+Sales Man 5 : 0
+Sales Man 6 : 0
+Total Sale in Region 2 is: 3350
+
+			Region : 3
+
+Sales Man 1 : 0
+Sales Man 2 : 2010
+Sales Man 3 : 0
+Sales Man 4 : 0
+Sales Man 5 : 0
+Sales Man 6 : 120
+Total Sale in Region 3 is: 2130
+
+			Region : 4
+
+Sales Man 1 : 0
+Sales Man 2 : 0
+Sales Man 3 : 0
+Sales Man 4 : 0
+Sales Man 5 : 2500
+Sales Man 6 : 0
+Total Sale in Region 4 is: 2500
